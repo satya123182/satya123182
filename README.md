@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satya123182
 - 👀 I’m interested in Coding, Web Development, AI & ML,
 - 🌱 I’m currently learning GNN's
-- 💞️ I’m looking to collaborate on ML projects 
+- 💞️ I’m looking for InternShips 
 - 📫 How to reach me email: perisettyraja@gmail.com , Mobile:+919441229599
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am still pursuing my B.tech degree from IIIT SriCity 
